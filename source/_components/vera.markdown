@@ -49,7 +49,8 @@ vera:
   vera_controller_url: http://192.168.1.161:3480/
   # Optional to exclude devices - this is a list of vera device ids
   exclude: [ 13, 14, 16, 20, 23, 72, 73, 74, 75, 76, 77, 78, 88, 89, 99]
-  # Optional to import switches as lights - this is a list of vera device ids
+  # Optional to import switches as lights - this is a 
+  # list of vera device ids
   lights: [15, 17, 19, 21, 22, 24, 26, 43, 64, 70, 87]
 ```
 
